@@ -1,0 +1,3 @@
+Read Me
+
+I had a lot of fun working on this project!  My initial thought was to use a recursive method to solve the maze and compare adjacent row and column values but instead I decided to go with a kind of blind squirrel algorithm.  Completely random!  I chose this mainly because I was curious how many moves it would take to exit a simple maze using this method.  Thanks for the opportunity to interview with your company!  Steve Franz
